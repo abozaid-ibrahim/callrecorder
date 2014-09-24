@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Callrecorder</string>
+    <string name="SECURITY_EXCEPTION_MESSAGE">Security Exception!</string>
+    <string name="UNKNOWN_EXCEPTION_MESSAGE">Unknown Exception!</string>
+    <string name="CALL_STATE_IDLE">IDLE</string>
+    <string name="CALL_STATE_RINGING">RINGING</string>
+    <string name="CALL_STATE_OFFHOOK">OFFHOOK</string>
+    <string name="start_message">Service started. Will stay alive and restart at boot without any further user input until the app is uninstalled. \n Files are saved in the public folder named Callrecorder and are named with date, time and phone number.</string>
+    <string name="ok_button">OK</string>
+    <string name="empty"></string>
+    
+</resources>
